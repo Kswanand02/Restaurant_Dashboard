@@ -1,11 +1,11 @@
 function Navbar() {
     return <>
         <div>Navbar</div>
-        <ol>
+        <ul>
             <li>Home</li>
             <li>Menu</li>
             <li>Contact</li>
-        </ol>
+        </ul>
 
     </>
 
